@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer{
+    .text-color{
+        color: #9197B3;
+    }
+}
+body{
+    display: flex;
+    flex-direction: row;
+    
+}
